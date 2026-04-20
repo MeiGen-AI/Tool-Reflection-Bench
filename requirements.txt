@@ -1,0 +1,12 @@
+torch>=2.0
+transformers>=4.33,<4.56
+trl>=0.17,<0.21
+peft>=0.11,<0.17
+datasets>=3.0
+vllm>=0.6
+openai>=1.0
+modelscope>=1.23
+matplotlib
+dacite>=1.8
+accelerate
+numpy
