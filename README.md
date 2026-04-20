@@ -97,7 +97,7 @@ bash train.sh --model /path/to/Qwen3-4B-Instruct --gpus 4
 | Shorthand | HuggingFace ID | Type |
 |-----------|---------------|------|
 | `qwen2.5-7b` | `Qwen/Qwen2.5-7B-Instruct` | Qwen |
-| `qwen3-4b` | `Qwen/Qwen3-4B-Instruct` | Qwen3 |
+| `qwen3-4b` | `Qwen/Qwen3-4B` | Qwen3 |
 | `llama3.1-8b` | `meta-llama/Llama-3.1-8B-Instruct` | Llama |
 
 ### Key Hyperparameters
