@@ -88,7 +88,7 @@ bash train.sh --model /path/to/Qwen2.5-7B-Instruct
 bash train.sh --model /path/to/Llama-3.1-8B-Instruct
 
 # Train Qwen3-4B with custom GPU count
-bash train.sh --model /path/to/Qwen3-4B-Instruct --gpus 4
+bash train.sh --model /path/to/Qwen3-4B --gpus 4
 ```
 
 ### Supported Models
