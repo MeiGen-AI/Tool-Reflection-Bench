@@ -64,7 +64,6 @@ Tool-Reflection-Bench/
 │   └── swift/                      # Bundled modified copy of ms-swift (Apache-2.0)
 │       └── plugin/
 │           ├── orm.py              # Reward functions (core)
-│           └── toolrl_reward.py    # ToolRL reward baseline
 ├── data/                           # Training data
 │   ├── train_qwen.jsonl            # Qwen-format training data (4928 samples)
 │   ├── train_llama.jsonl           # Llama-format training data (4928 samples)
