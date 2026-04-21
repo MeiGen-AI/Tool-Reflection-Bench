@@ -63,7 +63,7 @@ Tool-Reflection-Bench/
 │   ├── draw.py                     # Reward curve visualization
 │   └── swift/                      # Bundled modified copy of ms-swift (Apache-2.0)
 │       └── plugin/
-│           ├── orm.py              # Reward functions (core)
+│           └── orm.py              # Reward functions (core)
 ├── data/                           # Training data
 │   ├── train_qwen.jsonl            # Qwen-format training data (4928 samples)
 │   ├── train_llama.jsonl           # Llama-format training data (4928 samples)
