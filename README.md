@@ -6,6 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 The core contributors to this study are the following four individuals: 
+
 **Junhao Su, Yuanliang Wan, Hengyu Shi, and Tianyang Han**
 
 ## Overview
